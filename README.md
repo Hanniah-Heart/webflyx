@@ -1,0 +1,2 @@
+# Webflyx
+This is a guided project that was part of the [Boot.Dev Course, Learn Git](https://www.boot.dev/courses/learn-git). For some reason they didn't have use make a README for this course and I'm adding this one from github two weeks later. It doesn't have any actual scripts. It's just a bit of fake information they had us push around while pretending we were creating some pre-netflix movie thing. Technically the quotes and such are real, but none of it held purpose on it's own. It only existed to demonstrate how git handles these things and be funny.
